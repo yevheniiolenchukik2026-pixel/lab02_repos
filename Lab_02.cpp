@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    double Pi = 4 * atan(1.); // число пі
+    double Pi = 4 * atan(1.); // число пі, через арктангенс
 
     double alpha; // вхідний параметр
     double z1;    // результат обчислення 1-го виразу
